@@ -37,35 +37,43 @@ If the output is 1, then the led glows.
 ### Program:
 
 Half Adder: 
+
 ![Screenshot 2023-12-02 124808](https://github.com/Devadhaarini/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/145796552/b1dcb2af-5d52-499c-81a8-b80caedbc071)
 
 Full Adder:
+
 ![Screenshot 2023-12-02 124815](https://github.com/Devadhaarini/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/145796552/a005a81c-3cc6-4b8d-8c44-96dd8b247ddb)
 
 
 ### Truth table:
 
 Half Adder Circuit:
+
 ![image](https://github.com/Devadhaarini/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/145796552/82807561-fd4d-463c-b77d-4d5a77db1c41)
 
 Full Adder Circuit:
+
 ![image](https://github.com/Devadhaarini/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/145796552/fe223a3c-d494-4406-b74b-b45b694c7f2e)
 
 
 ### RTL Realisation 
 
 Half Adder Circuit:
+
 ![image](https://github.com/Devadhaarini/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/145796552/54ee96d6-f712-4272-b480-305ba3fd420c)
 
 Full Adder Circuit:
+
 ![image](https://github.com/Devadhaarini/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/145796552/17f7e541-1665-4ca2-af48-60fd9ef6c621)
 
 ### TIMING DIAGRAM
 
 Half Adder Circuit:
+
 ![image](https://github.com/Devadhaarini/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/145796552/cf050b56-4436-44c4-a3f9-1f4d81abfbb8)
 
 Full Adder Circuit:
+
 ![image](https://github.com/Devadhaarini/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/145796552/c44e57b3-17f6-4501-8ea4-827048c5aab4)
 
 
