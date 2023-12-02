@@ -4,6 +4,12 @@
 ### AIM:
 To design a half adder and full adder circuit and verify its truth table in Quartus using Verilog programming.
 
+### Developed by:
+Devadhaarini.D
+
+### Register Number:
+23006001
+
 ### Equipments Required:
 Hardware – PCs, Cyclone II , USB flasher
 Software – Quartus prime
